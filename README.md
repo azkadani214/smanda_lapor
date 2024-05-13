@@ -1,3 +1,3 @@
-## PENGKAT - Pengaduan Masyarakat
+Pengaduan Siswa SMAN 1 Pandaan - XI E CLOVEN
+Menggunakan framework Laravel 8 dan Tailwind CSS
 
-Ini adalah Source Code Website PENGKAT - Layanan Pengaduan Masyarakat Online yang dibuat menggunakan Framework Laravel 8 dan Tailwindcss.
